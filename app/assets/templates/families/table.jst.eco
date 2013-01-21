@@ -1,0 +1,6 @@
+<td class ="c"><%= @family.get('name') %></td>
+<td class ="c"><%= @family.get('dog') %></td>
+<td class ="c"><%= @family.get('cat') %></td>
+<td class ="c"><%= @family.get('email') %></td>
+<td class ="c"><%= @family.get('phone') %></td>
+<td class ="c"><%= @family.get('city') %></td>

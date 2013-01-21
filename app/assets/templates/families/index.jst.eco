@@ -1,0 +1,5 @@
+<% if @l !=1 : %>
+
+<% else: %>
+ <td>second</td>
+<% end %>
